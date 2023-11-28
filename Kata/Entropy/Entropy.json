@@ -4,6 +4,7 @@
   "ControlUniqueIds": {
     "App": 1,
     "Attachments_DataCard1": 22,
+    "Button1": 27,
     "DataCardKey1": 8,
     "DataCardKey2": 13,
     "DataCardKey3": 18,
@@ -30,7 +31,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "11/28/2023 16:40:28",
+  "HeaderLastSavedDateTimeUTC": "11/28/2023 16:43:00",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "c2701731-a0ac-41c0-962d-1e3bc898c1ea": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/07ccad7cd4cc4b2b9014d780c5290dce\""
@@ -48,6 +49,7 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "attachments": 3,
+    "button": 4,
     "form": 0,
     "label": 1,
     "text": 2
@@ -55,6 +57,7 @@
   "OverridablePropertiesEntry": {
     "App": {},
     "Attachments_DataCard1": {},
+    "Button1": {},
     "DataCardKey1": {},
     "DataCardKey2": {},
     "DataCardKey3": {},
@@ -84,6 +87,7 @@
   "PublishOrderIndices": {
     "App": 0,
     "Attachments_DataCard1": 16,
+    "Button1": 0,
     "DataCardKey1": 3,
     "DataCardKey2": 8,
     "DataCardKey3": 13,
