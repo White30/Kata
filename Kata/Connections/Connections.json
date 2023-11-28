@@ -1,0 +1,24 @@
+{
+  "c2701731-a0ac-41c0-962d-1e3bc898c1ea": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1664/1.0.1664.3477/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://dvs365team.sharepoint.com/sites/Teste2": {
+        "dataSources": {
+          "Kata": {
+            "tableName": "d8cfcfa6-0ec7-43c9-b930-e8fefde5b288"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Kata"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "c2701731-a0ac-41c0-962d-1e3bc898c1ea"
+  }
+}
